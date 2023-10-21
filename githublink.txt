@@ -1,0 +1,1 @@
+https://github.com/bibovaldez/Data-Analytics-Assignment-31-40/blob/main/adult.ipynb
